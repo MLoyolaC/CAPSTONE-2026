@@ -19,11 +19,11 @@ Proyecto desarrollado para **Hotel El Almendro**, enfocado en centralizar y orga
 
 ## Docente
 
-- Paz Constanza Morales Saavedra
+- Paz Saavedra
 
 ## Contraparte
 
-- Andrés Cordero - Hotel El Almendro
+- Hotel El Almendro
 
 ## Desarrollo actual
 
